@@ -40,8 +40,9 @@ We are not responsible for anything that may happen to your phone as a result of
 | Candy6 | x | 6.0.1 | CyanogenMod | 2016/07/06 | :x: |
 | Cardinal | 3.1 | 6.0.1 | AOSP | 2016/09/02 | :x: |
 | CMRemix | x | 6.0.1 | CyanogenMod | 2016/02/05 | :x: |
-| CyanogenMoD | x | 6.0.1 | AOSP/Independent | 2016/09/08 | :white_check_mark: |
+| CyanogenMod | 13.1 | 6.0.1 | AOSP/Independent | 2016/09/08 | :white_check_mark: |
 | CypherOS | x | 6.0.1 | CyanogenMod | 2016/06/18 | :x: |
+| Galaxy Evolution | 5.1 | 4.4.4 | Independent | 2016/09/01 | :x: |
 | HexagonROM | 1.4 | 6.0.1 | CyanogenMod | 2016/08/23 | :x: |
 | Minimal OS | x | 5.1.1 | AOSP | 2016/02/05 | :x: |
 | MIUI | 8.0.1.0 | 4.4.4 | Independent | 2016/08/14 | :x: |
@@ -49,8 +50,7 @@ We are not responsible for anything that may happen to your phone as a result of
 | Oct M | x | 6.0.1 | AOSP | 2016/08/10 | :x: |
 | OmniROM | x | 6.0.1 | Independent | 2016/08/29 | :x: |
 | OwnROM | 3.0 | 6.0.1 | CyanogenMod | 2016/09/01 | :x: |
-| Resurrection Remix | x | 6.0.1 | CyanogenMod | 2016/08/07 | :white_check_mark: |
-| Galaxy Evolution | x | 4.4.4 | Independent | 2016/09/01 | :x: |
+| Resurrection Remix | 5.7.3 | 6.0.1 | CyanogenMod | 2016/08/07 | :white_check_mark: |
 | Sense8 | 1.1 | 6.0.1 | CyanogenMod | 2016/07/31 | :x: |
 | Slim6 | 1.3 | 6.0.1 | AOSP | 2016/09/17 | :x: |
 | Temasek's | 10.8 | 6.0.1 | CyanogenMod | 2016/08/15 | :x: |
