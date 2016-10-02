@@ -25,7 +25,7 @@ You can find information about this rom on the official website.
 
 ### Download ROM
 
- * **ROM**, **APPS**, **KERNEL** and **UPDATES** - [download here](#)
+ * **ROM**, **APPS**, **KERNEL** and **UPDATES** - [download here](https://mega.nz/#F!5VcBWQ4Q!DPKw3yo5lL1f1TiUyjatJg)
 
 ### About Kernel
 
