@@ -4,16 +4,17 @@
  * [Bugs](#bugs)
  * [Download](#download)
  * [Changelog](#changelog)
+   * [2016/09/08 - [CyanogenMod v13.0] - [Android v6.0.1] - [Port v1.2.0]](#20160908---cyanogenmod-v130---android-v601---port-v120)
 
 ## About the rom
 
 You can find information about this rom on the official website.
 
-***Website:*** [CyanogenMod]
+***Website:*** [CyanogenMod](http://www.cyanogenmod.org/)
 
-***Source Code:*** 
+***Source Code:*** [https://github.com/CyanogenMod](https://github.com/CyanogenMod)
 
-***Changelog:*** 
+***Changelog:*** [https://www.cmxlog.com/13/](https://www.cmxlog.com/13/)
 
 ## Bugs
 
@@ -35,7 +36,7 @@ You can find information about this rom on the official website.
 
 ## Changelog
 
-##### 2016/10/01 - [CyanogenMod v13.1] - [Android v6.0.1]
+##### 2016/09/08 - [CyanogenMod v13.1] - [Android v6.0.1]
 
 ###### Notable Changes
 

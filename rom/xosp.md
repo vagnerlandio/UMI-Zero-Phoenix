@@ -4,16 +4,17 @@
  * [Bugs](#bugs)
  * [Download](#download)
  * [Changelog](#changelog)
+   * [2016/09/03 - [XOSP v6.3] - [Android v6.0.1] - [Port v1.1.5]](#20160903---xosp-v63---android-v601---port-v115)
 
 ## About the rom
 
 You can find information about this rom on the official website.
 
-***Website:*** [XOSP]
+***Website:*** [XOSP](http://xosp.org/)
 
-***Source Code:*** 
+***Source Code:*** [https://github.com/XOSP-Project](https://github.com/XOSP-Project)
 
-***Changelog:*** 
+***Changelog:*** [https://github.com/XOSP-Project/android_vendor_xosp/blob/xosp-mm/README.mkdn](https://github.com/XOSP-Project/android_vendor_xosp/blob/xosp-mm/README.mkdn)
 
 ## Bugs
 
@@ -35,7 +36,7 @@ You can find information about this rom on the official website.
 
 ## Changelog
 
-##### 2016/10/01 - [XOSP v6.3] - [Android v6.0.1]
+##### 2016/09/03 - [XOSP v6.3] - [Android v6.0.1]
 
 ###### Notable Changes
 
