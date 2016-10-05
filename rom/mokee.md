@@ -1,4 +1,4 @@
-# Enjoy CyanogenMod on your UMI Zero
+# Enjoy MoKee on your UMI Zero
 
  * [About the rom](#about-the-rom)
  * [Bugs](#bugs)
@@ -9,7 +9,7 @@
 
 You can find information about this rom on the official website.
 
-***Website:*** [CyanogenMod]
+***Website:*** [MoKee]
 
 ***Source Code:*** 
 
@@ -35,7 +35,7 @@ You can find information about this rom on the official website.
 
 ## Changelog
 
-##### 2016/10/01 - [CyanogenMod] - [Android v6.0.1]
+##### 2016/10/01 - [MoKee v60.1] - [Android v6.0.1]
 
 ###### Notable Changes
 
