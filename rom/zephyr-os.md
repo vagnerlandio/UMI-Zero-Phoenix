@@ -35,6 +35,12 @@ You can find information about this rom on the official website.
 
 ## Changelog
 
+##### 2016/10/09 - [Zephyr-OS v5.0] - [Android v6.0.1]
+
+###### Notable Changes
+
+ * Added link for root (SuperSU).
+
 ##### 2016/10/01 - [Zephyr-OS v5.0] - [Android v6.0.1]
 
 ###### Notable Changes
