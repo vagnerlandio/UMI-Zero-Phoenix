@@ -3,7 +3,7 @@ Instead of tossing it or selling it for mere pennies, here’s an idea for using
 
 ## The Umi Zero
 
-![UMI Zero](https://s17.postimg.org/k8jxexzcv/Index.png)
+![UMI Zero](rom/imgs/umi_zero_index.png)
 
 | Item 				| Value |
 | ----------------:	| :--- |
